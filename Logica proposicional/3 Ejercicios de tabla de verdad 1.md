@@ -59,8 +59,30 @@ Paso 3: Negar P∧Q ( ¬(P∧Q) )
 |    V   |
 |    V   |
 
+                    Segundo Ejemplo
 
-                    Segundo Ejemplo (Complejo)
+
+
+| P | Q | ¬P | ¬Q | ¬P∧¬Q | 
+|---|---|----|----|-------|
+| V | V | F  | F  |    F  |
+| V | F | F  | V  |    F  |
+| F | V | V  | F  |    F  |
+| F | F | V  | V  |    V  |
+
+
+
+                    Tercer Ejemplo
+
+| P | Q | ¬Q | P∧¬Q | 
+|---|---|----|------|
+| V | V | F  |  F   |
+| V | V | V  |  V   |
+| F | F | V  |  F   |
+| F | V | F  |  F   |
+
+
+                    Cuarto Ejemplo (Complejo)
 
 
 Consideremos la proposición: ¬(𝑃∧𝑄)∨(𝑃→𝑄)
