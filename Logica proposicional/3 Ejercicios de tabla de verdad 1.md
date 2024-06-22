@@ -14,7 +14,7 @@ En logica proposicional, el orden en el que se evalúan los operadores es crucia
 Para aclarar cómo se aplica este orden de precedencia en una tabla de verdad, veamos un ejemplo complejo:
 
 
-
+Soluciones :
 
                     Primer ejemplo Ejemplo 
 

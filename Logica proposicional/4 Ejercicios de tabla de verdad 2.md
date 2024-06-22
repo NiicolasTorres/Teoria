@@ -8,7 +8,7 @@ Primer Ejercicio: (P∧Q)∧(Pv¬Q)
 
 Segundo Ejercicio: (P∧¬Q)v(¬P∧¬Q)
 
-Soluciones abajo
+Soluciones :
 
 
                     Primer Ejercicio

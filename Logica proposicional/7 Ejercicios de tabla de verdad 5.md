@@ -4,6 +4,8 @@ Primer Ejercicio: (p→q)∧(q→p)
 
 Segundo Ejercicio: Q∨(¬P→Q)
 
+Soluciones :
+
 Expresión lógica a resolver: (p→q)∧(q→p)
 
 | P | Q | p→q | q→p | (p→q)∧(q→p) |

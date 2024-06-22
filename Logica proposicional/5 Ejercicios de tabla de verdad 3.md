@@ -7,7 +7,7 @@ Primer Ejercicio: (P∧¬Q)∧r
 Segundo Ejercicio: (PvQ)∧¬r
 
 
-                    Soluciones
+                    Soluciones:
 
 Expresión lógica a resolver: (Pv¬Q)∧r
 
