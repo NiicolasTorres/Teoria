@@ -24,8 +24,8 @@ Donde:
 
 | P | ¬P | ¬(¬P) |
 |---|----|-------|
-| V	| F	 |   V   |
-| F	| V	 |   F   |
+| V | F	|   V   |
+| F | V	|   F   |
 
 
 Como se puede observar en la tabla de verdad:
