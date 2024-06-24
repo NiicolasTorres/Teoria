@@ -31,3 +31,57 @@ Big O en términos de memoria describe cuánta memoria adicional (como espacio e
                     Resumen
 
 Big O es una herramienta poderosa para evaluar la eficiencia de los algoritmos en términos de velocidad y memoria. Para alguien con TDAH, enfocarse en las ideas centrales de cómo cambian el tiempo y el espacio con el tamaño del problema puede hacer que este concepto sea más manejable y aplicable en situaciones prácticas.
+
+
+
+Pero si queres mas informacion, aquí tienes una mejora técnica de la explicación anterior, complementando los conceptos de Big O en términos de velocidad (tiempo de ejecución) y memoria (espacio requerido):
+
+
+
+                    Velocidad (Tiempo de Ejecución)
+
+Definición: Big O en términos de velocidad describe cómo crece el tiempo de ejecución de un algoritmo a medida que crece el tamaño de la entrada (n).
+
+Ejemplos de Complejidad:
+
+- O(1): Tiempo constante. El algoritmo ejecuta en el mismo tiempo sin importar el tamaño de n. Por ejemplo, acceder a un elemento específico en una matriz.
+
+- O(log n): Tiempo logarítmico. El tiempo de ejecución crece de manera logarítmica con respecto a n. Por ejemplo, búsqueda binaria en una lista ordenada.
+
+- O(n): Tiempo lineal. El tiempo de ejecución crece de manera proporcional a n. Por ejemplo, recorrer una lista una vez para imprimir sus elementos.
+
+- O(n log n): Tiempo log-lineal. Común en algoritmos de ordenamiento eficientes como Merge Sort y Quick Sort.
+
+- O(n^2): Tiempo cuadrático. El tiempo de ejecución crece con el cuadrado de n. Por ejemplo, algoritmos de ordenamiento como Bubble Sort cuando se implementa de manera ingenua.
+
+- O(2^n): Tiempo exponencial. Muy ineficiente para grandes n. Por ejemplo, algoritmos recursivos que generan todas las combinaciones posibles.
+
+- O(n!): Tiempo factorial. El peor caso de complejidad, extremadamente ineficiente. Por ejemplo, algoritmos que generan todas las permutaciones de n elementos.
+
+
+                    Memoria (Espacio Requerido)
+
+Definición: Big O en términos de memoria describe cuánta memoria adicional utiliza un algoritmo a medida que crece n.
+
+Ejemplos de Complejidad:
+
+- O(1): Memoria constante. El algoritmo utiliza una cantidad fija de memoria, independientemente del tamaño de n.
+
+- O(n): Memoria lineal. El uso de memoria crece de manera proporcional a n. Por ejemplo, almacenar una lista de n elementos.
+
+- O(n^2): Memoria cuadrática. El uso de memoria crece con el cuadrado de n. Por ejemplo, matrices bidimensionales de tamaño n x n.
+
+- O(log n), O(n log n), etc.: También se aplica la misma lógica que en la complejidad de tiempo, pero se refiere al uso de memoria adicional requerida para realizar cálculos o almacenar datos adicionales durante la ejecución.
+
+
+                Importancia y Aplicación Práctica
+
+- Decisiones de Diseño de Algoritmos: Comprender Big O ayuda a los desarrolladores a seleccionar y diseñar algoritmos eficientes para diferentes problemas, optimizando tanto el tiempo de ejecución como el uso de memoria.
+
+- Comparación de Algoritmos: Facilita la comparación entre diferentes enfoques algorítmicos, permitiendo identificar el más adecuado para una tarea específica en función de sus requisitos de rendimiento.
+
+- Optimización de Código: Con Big O en mente, los desarrolladores pueden identificar áreas para mejorar el rendimiento de sus implementaciones, reduciendo así los tiempos de ejecución y el uso de recursos.
+
+                Conclusiones
+                
+Big O es una herramienta fundamental para la evaluación y optimización de algoritmos, proporcionando una métrica clara y cuantitativa sobre su eficiencia en términos de tiempo y espacio. Esta mejora técnica amplía y refina los conceptos presentados anteriormente, ofreciendo una comprensión más completa y aplicada de su importancia en el desarrollo de software eficiente y escalable.
