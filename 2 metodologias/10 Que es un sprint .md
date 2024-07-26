@@ -1,0 +1,3 @@
+                    ¿Qué es un Sprint?
+                    
+Un Sprint es un ciclo de trabajo definido y recurrente en la metodología Scrum, que generalmente dura de una a cuatro semanas. Durante un Sprint, el equipo de desarrollo trabaja para completar un conjunto específico de tareas o historias de usuario que se seleccionan del Product Backlog. El objetivo es entregar un incremento de producto funcional y potencialmente desplegable al final de cada Sprint.
