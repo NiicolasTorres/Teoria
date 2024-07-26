@@ -49,14 +49,49 @@ Los conectores logicos son:
 
 Negación (¬): También conocido como "no". Niega una proposición. Por ejemplo, si  P es "Hace sol", entonces ¬P es "No hace sol".
 
+| P | ¬p |
+|---|----|
+| F |  V | 
+| V |  F |
+
+
 Conjunción ( ∧ ): También conocido como "y". Une dos proposiciones, siendo verdadera solo si ambas son verdaderas. Por ejemplo, 𝑃∧𝑄 es verdadero si tanto P como Q son verdaderos.
+
+
+| P | Q | P∧Q |
+|---|---|-----|
+| F | F |  F  |
+| F | V |  F  |
+| V | F |  F  |
+| V | V |  V  |
+
 
 Disyunción ( ∨ ): También conocido como "o". Une dos proposiciones, siendo verdadera si al menos una de ellas es verdadera. Por ejemplo, P∨Q es verdadero si al menos P o Q (o ambas) son verdaderos.
 
+| P | Q | PVQ |
+|---|---|-----|
+| F | F |  F  |
+| F | V |  V  |
+| V | F |  V  |
+| V | V |  V  |
+
 Implicación ( → ): También conocido como "si... entonces". Representa una relación en la que la verdad de una proposición (antecedente) garantiza la verdad de otra proposición (consecuente). Por ejemplo, P→Q significa "Si hace sol, entonces vamos a la playa".
+
+| P | Q | P→Q |
+|---|---|-----|
+| F | F |  V  |
+| F | V |  V  |
+| V | F |  F  |
+| V | V |  V  |
 
 Doble implicación ( ↔ ): También conocido como "si y solo si". Indica que dos proposiciones son verdaderas o falsas simultáneamente. Por ejemplo, P↔Q significa "Hace sol si y solo si vamos a la playa".
 
+| P | Q | P↔Q |
+|---|---|-----|
+| F | F |  V  |
+| F | V |  F  |
+| V | F |  F  |
+| V | V |  V  |
 
 
 Ejercicios:

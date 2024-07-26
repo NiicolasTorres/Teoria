@@ -32,14 +32,14 @@ Repaso rapido:
 
 11. Ley de Negación: En lógica proposicional, la negación de una conjunción es equivalente a la disyunción de las negaciones de las proposiciones individuales, y viceversa. Es decir, NOT (a AND b) es equivalente a (NOT a) OR (NOT b), y NOT (a OR b) es equivalente a (NOT a) AND (NOT b).
 
-Expresión lógica a resolver:  q ∧ ¬[¬( P ∧ Q ) → ¬Q ]
+Expresión lógica a resolver:  q V ¬[¬( P ∧ Q ) → ¬Q ]
 
 
-1. q ∧ ¬[¬( P ∧ Q ) → ¬Q ] ≡ Q V ¬[(P ∧ Q ) v ¬Q ]
-
-
-
-2. p ∧ ( P ∧ Q ) ≡ P
-3. Q V ( ¬R ∧ Q ) ≡ Q
-4. ( ¬R V S ) V ¬R ≡ ¬R
-5. [¬ ( p ∧ q) ∧ S] ∧ S ≡ S
+1. q ∧ ¬[¬( P ∧ Q ) → ¬Q ] ≡ Q V ¬[( P ∧ Q ) ∨ ¬Q ]
+2.                         ≡ Q V [ ¬( P ∧ Q ) ∨ Q ]
+3.                         ≡ Q 
+ 
+Leyes usadas: 
+1.Disyuncon
+2.Ley de De Morgan
+3.ley de absorcion
