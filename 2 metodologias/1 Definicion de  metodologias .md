@@ -38,7 +38,7 @@ Las metodologías de software son enfoques estructurados y sistemáticos utiliza
 
 7. Modelo Espiral:
    - Descripción: Combina elementos de diseño iterativo y prototipado. Se enfoca en la identificación y mitigación de riesgos a lo largo del ciclo de vida del proyecto.
-   - **Ventajas: Gestión de riesgos, adaptabilidad, permite refinamiento continuo.
+   - Ventajas: Gestión de riesgos, adaptabilidad, permite refinamiento continuo.
    - Desventajas: Complejidad, puede ser costoso y difícil de gestionar.
 
 Estas metodologías se eligen y adaptan según las necesidades específicas del proyecto, el equipo y el entorno de trabajo. La elección de una metodología adecuada puede mejorar significativamente la eficiencia, la calidad y el éxito del desarrollo del software. Las metodologías de desarrollo de software a menudo se dividen en dos categorías principales: metodologías pesadas (o tradicionales) y metodologías ágiles. Ya veremos ejemplos de estas metodologias.
