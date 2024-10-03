@@ -51,5 +51,3 @@ Por último, aquí hay algunos ejemplos para ayudarte a practicar:
    - Si \(n\) es impar: \(f(n) = (1 - n)/2\).
    
    ¿Es esta función inyectiva? ¿Es sobreyectiva? ¿Podrías calcular su inversa si es biyectiva?
-
-Este enfoque es útil porque divide la información en partes manejables, lo que facilita su comprensión.
