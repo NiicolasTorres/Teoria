@@ -21,7 +21,7 @@ Hay dos maneras comunes de describir conjuntos:
 ### 3. Conjuntos especiales y vacíos
 El **conjunto vacío**, denotado por \(∅\), es un conjunto que no tiene ningún elemento. Aunque esto suene raro, es útil en matemáticas, ya que el conjunto vacío puede representarse de muchas maneras. Por ejemplo:
 - \(∅ = \{x : x^2 = -1\}\), ya que no hay ningún número real cuyo cuadrado sea -1.
-- También podemos decir que \(∅\) es el conjunto de provincias que están tanto en Andalucía como en Galicia, ya que no hay ninguna provincia que pertenezca a ambos lugares.
+- También podemos decir que \(∅\) es el conjunto de provincias que están tanto en Argentina como en Chile, ya que no hay ninguna provincia que pertenezca a ambos lugares.
 
 ### 4. Operaciones con conjuntos
 Las **operaciones** básicas que podemos hacer con conjuntos son:
