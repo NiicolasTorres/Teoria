@@ -15,7 +15,7 @@ Hay dos maneras comunes de describir conjuntos:
   \(Y = \{Chaco, Córdoba, Misiones, Salta, Buenos Aires, Chubut, Jujuy, Mendoza\}\).
   
 - **Por comprensión**, describiendo una propiedad común a todos sus elementos. Por ejemplo, podrías definir el mismo conjunto de provincias así:
-  \(Y = \{y : y es una provincia de Argentina\}\),
+  \(Y = \{y : yesunaprovinciadeArgentina\}\),
   lo que se lee como "Y es el conjunto de todos los \(y\) tales que \(y\) es una provincia de Argentina".
 
 ### 3. Conjuntos especiales y vacíos
